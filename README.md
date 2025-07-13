@@ -51,15 +51,6 @@ Cube Fall includes background music tracks that:
 - Change intensity as difficulty increases
 - Are royalty-free or originally composed 🎶
 
-
----
-
-## 📦 Installation
-
-👉 [**Download CubeFall.apk**](apk/CubeFall.apk)
-
-> ⚠️ Be sure to enable **Install from Unknown Sources** in your Android device settings.
-
 ---
 
 ## 🛠️ Tech Stack
