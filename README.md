@@ -29,18 +29,8 @@ Cube Fall is a fast-paced, addictive Android arcade game where you guide a falli
 
 ## 📸 Screenshot
 
-> 📍 Add your in-game images here
+![Gameplay](Screentshots/GamePlay.jpg)
 
-
-![Gameplay](screenshots/gameplay1.png)
-
----
-
-## 🖼️ Game Logo
-
-> 📍 Add your app logo here
-
-![Cube Fall Logo](assets/logo.png)
 
 ---
 
